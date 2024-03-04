@@ -39,5 +39,3 @@ $ npm run test:cov
 ## Stay in touch
 
 - Author - [Ryan Battistone](https://github.com/abogadotoast)
-# hm_public
-# hm_public
